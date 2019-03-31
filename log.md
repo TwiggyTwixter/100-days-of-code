@@ -11,3 +11,17 @@ My goal is to code at least an hour, but I want to shoot for more than an hour. 
 **Links to work:** 
     *[Drifter Tribute Project](https://github.com/TwiggyTwixter/drifter-tribute) (Not live yet)
     *[Portfolio](https://jazzjones.io)(live)
+
+### Day 2: March 29, 2019
+
+**Today's Progress**: At work, (a non coding job) I created Excel macros to improve efficiency in my workflow.
+
+**Thoughts**: I created some macros that save files, formats file names, and close and open Microsoft applications. I'm counting this as my day of code because it was still problem solving and code, even if it was just VBA. No working on webpages because the CSS burned me out and I was pretty burned out from working on VBA code.
+
+### Day 3: March 30, 2019
+
+**Today's Progress**: At work, (a non coding job) I documented the new macros I made for the coworkers to integrate into their own workflow as well.
+
+**Thoughts**: I'm counting this day as a day of code as well because documenting is just as important (or even more important) as actually writing out code and solving the problem. Without good documentation, you could come back to it months from now and have to decipher some esoteric looking functions, or someone else might be interested in the code but won't be able to decipher what it actually does. I found this little exercise pretty fun actually. It allowed me to fully gather my thoughts on what the code does and how to explain it to someone else.
+When I got home I coded for another couple of hours, this time on my gw2 app. State management is a beast and I wanted to refactor the code. I want to clear up the functions that are collecting the state to and update the top level application state. The more complex this is growing I can see that this isn't the best pattern, and has in fact turned into an anti-pattern. I finally get why people say manual state management is a pain in React. Using a state management library like redux would clear up this mess, but the prospect of adding a whole other library doesn't sound exciting for me. 
+I know nothing of redux outside of the fact that it is used for state, and that the owner is part of the Facebook React development team. Guess I'm going to start learning this this library before the end of the night lol.
