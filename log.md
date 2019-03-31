@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 30, 2016 (Example 1)
+### Day 1: March 28, 2019
 
 **Today's Progress**: Updated some issues on my portfolio, completed CSS Grid on FCC, started a tribute page based on the Drifter from Destiny, and started making plans for a twitter bot.
 
