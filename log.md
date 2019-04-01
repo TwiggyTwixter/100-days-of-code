@@ -36,3 +36,8 @@ I know nothing of redux outside of the fact that it is used for state, and that 
 **Today's Progress**: Reviewed Redux docs and watched Dan Abramov's tutorials while taking detailed notes, set up redux in my GW2 app.
 
 **Thoughts**: The more I read about redux, the more I realized I was thinking about state management in a complex way. Yeah no wonder my code looks like spaghetti. I took some pretty good notes and thought about the different pieces of state my application was needing. Right now my current setup has different functions that grab component state to set the application level state. The code is too long, there is a lot of repeating and it's just not working. Redux will help me make it a lot easier and cut down on a lot of repeating code. I've been reading articles and blog posts all day while digesting redux docs, so for my act of code today I set up the boilerplate redux code. Tonight I'll drift off to sleep thinking about the different components I have and what state will be needed in my app.
+
+**Update**: I ended up doing more than just adding boilerplate. I refactored the app so it was no longer a class, added redux and redux devtools (which was a pain to tool correctly because of literally a single character out of place (eye roll)). I was able to hook up the redux store to the token component and update the state after a click event. I started refactoring the toons component but I was having trouble wrapping my head around conditional rendering using redux. I'm too tired to think more on it as it is 10:15 PM. So all in all I ended up coding for about 3 hours tonight give or take.
+
+**Links to Work**:
+    [gw2 project](https://github.com/TwiggyTwixter/gw2-app/tree/react commit: f4ed983fa47959c00e6fa4e01c6fd03c31ae2505)
