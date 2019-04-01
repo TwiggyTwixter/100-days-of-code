@@ -30,3 +30,9 @@ I know nothing of redux outside of the fact that it is used for state, and that 
 
 **Links to Work:**
     [gw2 project](https://github.com/TwiggyTwixter/gw2-app/tree/react commit: 324523b783f7d948599ba40cde7e64a3c3adff38)
+
+### Day 4: March 31, 2019
+
+**Today's Progress**: Reviewed Redux docs and watched Dan Abramov's tutorials while taking detailed notes, set up redux in my GW2 app.
+
+**Thoughts**: The more I read about redux, the more I realized I was thinking about state management in a complex way. Yeah no wonder my code looks like spaghetti. I took some pretty good notes and thought about the different pieces of state my application was needing. Right now my current setup has different functions that grab component state to set the application level state. The code is too long, there is a lot of repeating and it's just not working. Redux will help me make it a lot easier and cut down on a lot of repeating code. I've been reading articles and blog posts all day while digesting redux docs, so for my act of code today I set up the boilerplate redux code. Tonight I'll drift off to sleep thinking about the different components I have and what state will be needed in my app.
