@@ -41,3 +41,9 @@ I know nothing of redux outside of the fact that it is used for state, and that 
 
 **Links to Work**:
     [gw2 project](https://github.com/TwiggyTwixter/gw2-app/tree/react commit: f4ed983fa47959c00e6fa4e01c6fd03c31ae2505)
+
+### Day 5: April 1, 2019
+
+**Today's Progess**: Added react-redux to gw2 project, started to wrap my head around better state management practices
+
+**Thoughts**: I didn't code yesterday because I was sick. I'm still feeling under the weather today, but I wanted to get some work done. I added react-redux to my gw2 project. The funny thing was, I thought I just needed redux, but then I read more of the docs on the redux site and it literally said to use react-redux to bind it to React. So yeah spent most of the time reading the docs and figuring out how to pass the store to nested components and figured out how to render conditionally based on that. Small win for me! But now I have to figure out how to get push data to the DOM from an API call. I'm inclined to use React Component classes and save tiny bits of the store state to individual react components, but that seems counterproductive to using redux in the first place. I'll figure it out when my head is clearer tomorrow.
